@@ -1,5 +1,5 @@
-# Tugas 9 Javascript
+# Tugas 10 Javascript
 
 Var, Let, Const.
 
-![Tugas9](Screen/tugas9.png)
+![Tugas10](Screen/tugas10.png)
