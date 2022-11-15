@@ -2,4 +2,4 @@
 
 Var, Let, Const.
 
-![Tugas2](screen/tugas2.png)
+![Tugas2](Screen/tugas2.png)
