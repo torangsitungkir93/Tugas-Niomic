@@ -1,5 +1,5 @@
-# Tugas 13 Javascript
+# Tugas 14 Javascript
 
-Var, Let, Const.
+Math Object Property
 
-![Tugas13](Screen/tugas13.png)
+![Tugas14](Screen/tugas14.png)

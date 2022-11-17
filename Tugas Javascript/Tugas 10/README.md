@@ -1,5 +1,5 @@
 # Tugas 10 Javascript
 
-Var, Let, Const.
+Perulangan
 
 ![Tugas10](Screen/tugas10.png)

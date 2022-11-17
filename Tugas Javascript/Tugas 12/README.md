@@ -1,5 +1,5 @@
 # Tugas 12 Javascript
 
-Var, Let, Const.
+Array Shift dan Pop
 
 ![Tugas12](Screen/tugas12.png)

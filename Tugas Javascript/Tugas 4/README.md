@@ -1,5 +1,5 @@
 # Tugas 4 Javascript
 
-Var, Let, Const.
+If
 
 ![Tugas4](Screen/tugas4.png)

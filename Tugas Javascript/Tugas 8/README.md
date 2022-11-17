@@ -1,5 +1,5 @@
 # Tugas 8 Javascript
 
-Var, Let, Const.
+Object
 
 ![Tugas8](Screen/tugas8.png)

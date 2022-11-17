@@ -1,5 +1,5 @@
 # Tugas 13 Javascript
 
-Var, Let, Const.
+Array
 
 ![Tugas13](Screen/tugas13.png)
